@@ -61,7 +61,7 @@
 
 </div>
 
-**Screen Recorder for Windows** is a lightweight desktop application built with Python that allows users to capture their screen activity with ease. Unlike bloated commercial solutions, this recorder focuses on simplicity, performance, and reliability while maintaining a small footprint.
+A lightweight Windows screen recorder built with Python, OpenCV and Tkinter. It provides a graphical workflow for capturing desktop activity and managing recordings.
 
 ### 🎯 Why This Project?
 
